@@ -1,0 +1,24 @@
+.todoActive-container {
+    width: 500px;
+   margin-top: 20px;
+}
+.todoInput {
+    height: 45px;
+    padding-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+    background-color: white;
+    color: black;
+}
+.addTodo {
+    width: 100%;
+}
+.add-button {
+    width: 100px;
+    border-radius: 7px;
+    background-color: rgb(12, 109, 253);
+
+}
+.tab-content {
+    margin: 10px 0px;
+}
